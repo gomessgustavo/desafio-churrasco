@@ -1,4 +1,4 @@
-# desafio-churrasco
+CHURRASCO - HAMMER CONSULT
 
 <h1>DESAFIO CHURRASCO - HAMMER CONSULT</h1>
 <h4>Como foi proposto no desafio churrasco da Hammer Consult, fiz a criação de uma plataforma que realizase o controle de participantes, convidados e arrecadação de dinheiro de um churrasco.</h4>
