@@ -1,6 +1,6 @@
 # desafio-churrasco
 
-DESAFIO CHURRASCO - HAMMER
+DESAFIO CHURRASCO - HAMMER CONSULT
 
 Utilizei como principais tecnologias PHP, HTML5 e CSS3, no banco de dados MySql.
 Para funcionamento do código foi necessário a utilização do softwares MySql Workbench e o Xampp, onde permite abrir um host da implementação.
